@@ -1,2 +1,2 @@
 # Assignment-2-js
-random quote generator
+## a simple random quote generator with html , css and js
